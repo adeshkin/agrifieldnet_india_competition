@@ -17,9 +17,8 @@ pip install -r requirements.txt
 ```
 
 ## Solution
-
-* Averaging the pixels of each field_id
 * Adding remote sensing indices - [source1](https://journals-crea.4science.it/index.php/asr/article/view/1463), [source2](https://sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
+* Averaging the values of each field_id
 * GridSearchCV - exhaustive search over specified parameter values for an estimator
 * Ensemble 6 model - mean of predictions
 
