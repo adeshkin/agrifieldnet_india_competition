@@ -1,4 +1,4 @@
-# [AgrifieldNet India Competition](https://zindi.africa/competitions/agrifieldnet-india-challenge). 
+# [AgrifieldNet India Competition](https://zindi.africa/competitions/agrifieldnet-india-challenge)
 ![](logo.png)
 
 The dataset for this challenge consists crop types of agricultural fields in four states of Uttar Pradesh, Rajasthan, Odisha and Bihar in northern India. There are 13 different classes in the dataset including Fallow land and 12 crop types of Wheat, Mustard, Lentil, Green pea, Sugarcane, Garlic, Maize, Gram, Coriander, Potato, Bersem, and Rice.
